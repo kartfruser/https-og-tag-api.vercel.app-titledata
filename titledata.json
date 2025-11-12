@@ -1,0 +1,70 @@
+{
+  "AutoMuteCheckedHours": "336",
+  "AutoName_Adverbs": "[\"Cool\",\"Fine\",\"Bald\",\"Bold\",\"Half\",\"Only\",\"Calm\",\"Fab\",\"Ice\",\"Mad\",\"Rad\",\"Big\",\"New\",\"Old\",\"Shy\"]",
+  "AutoName_Nouns": "[\"Gorilla\",\"Chicken\",\"Darling\",\"Sloth\",\"King\",\"Queen\",\"Royal\",\"Major\",\"Actor\",\"Agent\",\"Elder\",\"Honey\",\"Nurse\",\"Doctor\",\"Rebel\",\"Shape\",\"Ally\",\"Driver\",\"Deputy\"]",
+  "BuilderTable01": "",
+  "BuilderTableConfiguration": "{\"version\":0,\"TableResourceLimits\":[10000,2500,200],\"PlotResourceLimits\":[1500,375,30],\"DroppedPieceLimit\":100}",
+  "BundleBoardSign": "\u003Ccolor=yellow\u003EBUY THIS TO GET EVERY COSMETIC & UNRELEASED SWEATER\u003C/color\u003E",
+  "BundleBoardSign_1.1.46": "x",
+  "BundleKioskButton": "\u003Ccolor=yellow\u003E$10\u003C/color\u003E",
+  "BundleKioskSign": "\u003Ccolor=yellow\u003E$10\u003C/color\u003E",
+  "BundleLargeSign": "\u003Ccolor=red\u003E$10\u003C/color\u003E",
+  "CreditsData": "[{\"Title\":\"DEV TEAM\",\"Entries\":[\"Lucky \\\"NtsFranz\\\" Franzluebbers\",\"Carlo Grossi Jr\",\"Cody O'Quinn\",\"Craig Abell\",\"David Neubelt\",\"David Yee\",\"Derek \\\"DunkTrain\\\" Arabian\",\"Duncan \\\"rev2600\\\" Carroll\",\"Elie Arabian\",\"Eric “8on2” Kearns\",\"John Sleeper\",\"Johnny Wing\",\"Jonathan \\\"Jonny D\\\" Dearborn\",\"Jonathan \\\"JHameltime\\\" Hamel\",\"Jordan \\\"CircuitLord\\\" J.\",\"Haunted Army\",\"Kaleb \\\"BiffBish\\\" Skillern\",\"Kerestell Smith\",\"Keith \\\"ElectronicWall\\\" Taylor\",\"Mark Putong\",\"Matt \\\"Crimity\\\" Ostgard\",\"Nick Taylor\",\"Riley O'Callaghan\",\"Ross Furmidge\",\"Zac Mroz\"]},{\"Title\":\"SPECIAL THANKS\",\"Entries\":[\"Alpha Squad\",\"Caroline Arabian\",\"Clarissa & Declan\",\"Calum Haigh\",\"EZ ICE\",\"Gwen\",\"Laura \\\"Poppy\\\" Lorian\",\"Lilly Tothill\",\"Meta\",\"Mighty PR\",\"Sasha \\\"Kayze\\\" Sanders\",\"Scout House\",\"The \\\"Sticks\\\"\"]},{\"Title\":\"MUSIC BY\",\"Entries\":[\"Stunshine\",\"David Anderson Kirk\",\"Jaguar Jen\",\"Audiopfeil\",\"Owlobe\"]}]",
+  "DeployFeatureFlags": {
+    "flags": [
+      {
+        "name": "2024-05-ReturnCurrentVersionV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-05-ReturnMyOculusHashV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-05-TryDistributeCurrencyV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-05-AddOrRemoveDLCOwnershipV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-05-BroadcastMyRoomV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-06-CosmeticsAuthenticationV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "alwaysOnForUsers": [
+          ""
+        ],
+        "name": "2024-08-KIDIntegrationV1",
+        "value": 0,
+        "valueType": "percent"
+      }
+    ]
+  },
+  "EmptyFlashbackText": "\"FLOOR TWO NOW OPEN\\n FOR BUSINESS\\n\\nSTILL SEARCHING FOR\\nBOX LABELED 2021\"",
+  "EnableCustomAuthentication": "true",
+  "GorillanalyticsChance": "4320",
+  "LatestPrivacyPolicyVersion": "2024.03.07",
+  "LatestTOSVersion": "11.05.22.2",
+  "MOTD": "\u003Ccolor=magenta\u003EWELCOME TO OG TAG METRO 2024!\n\u003Ccolor=cyan\u003Emodded ez\u003C/color\u003E\n\u003Ccolor=lime\u003ECREDITS: SYSTEM, FROSTY, TASDIAM, RAIDER, COLLS & SCREAMINGCAT\u003C/color\u003E\n\u003Ccolor=white\u003EADMIN BADGE IS FOR OWNERS!\n\u003C/color\u003E\u003C/color\u003E\u003Ccolor=red\u003EBOOST DISCORD.GG/OG-TAG FOR EVERY COSMETIC!\u003C/color\u003E\n\u003Ccolor=yellow\u003EIF YOU LOST COSMETICS JOIN THE DISCORD\u003C/color\u003E",
+  "MuteThresholds": "\"[{\\\"name\\\":\\\"low\\\",\\\"threshold\\\":30},{\\\"name\\\":\\\"high\\\",\\\"threshold\\\":50}]\"",
+  "PrivacyPolicy_1.1.28": "DISCORD.GG/OG-TAG”\"",
+  "PrivacyPolicy_2024.03.07": "JOIN THE DISCORD SERVER: DISCORD.GG/OG-TAG",
+  "SeasonalStoreBoardSign": "\u003Ccolor=orange\u003EMETRO 2024!\u003C/color\u003E",
+  "UseLegacyIAP": "false",
+  "Versions": "{\"CreditsData\":11,\"MOTD_1.1.38\":8,\"MOTD_1.1.39\":7,\"bundleData\":1,\"BundleLargeSign_1.1.40\":1,\"BundleBoardSign_1.1.40\":0,\"BundleKioskSign_1.1.40\":1,\"BundleKioskButton_1.1.40\":0,\"SeasonalStoreBoardSign_1.1.40\":0,\"MOTD_1.1.40\":0,\"MOTD_1.1.42\":2,\"MOTD_1.1.43\":0,\"SeasonalStoreBoardSign_1.1.43\":0,\"MOTD_1.1.45\":10,\"MOTD_1.1.46\":1}",
+  "VotekickDuration": "10",
+  "bannedusers": "17",
+  "bundleData": "{\"Items\":[{\"isActive\":false,\"skuName\":\"2023_march_pot_o_gold\",\"shinyRocks\":\"5000\",\"playFabItemName\":\"LSAAU.\",\"majorVersion\":1,\"minorVersion\":1,\"minorVersion2\":39},{\"skuName\":\"2023_sweet_heart_bundle\",\"playFabItemName\":\"LSAAS.\",\"shinyRocks\":0,\"isActive\":true},{\"skuName\":\"2022_launch_bundle\",\"playFabItemName\":\"LSAAP2.\",\"shinyRocks\":10000,\"isActive\":false},{\"skuName\":\"early_access_supporter_pack\",\"playFabItemName\":\"Early Access Supporter Pack\",\"shinyRocks\":0,\"isActive\":false}]}"
+}
